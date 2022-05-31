@@ -58,6 +58,8 @@ Here the correlation between production budget and worldwide box office earnings
 ![image](https://user-images.githubusercontent.com/45251340/171094322-d6a0231d-4d4a-4d4c-b6ab-434880a4d323.png)
 
 
+
+
 Here the correlation between production budget and domestic box office earnings is shown, with a correlation of 0.686
 
 ![image](https://user-images.githubusercontent.com/45251340/171094433-1350214e-6c46-423f-8da0-78a363192966.png)
