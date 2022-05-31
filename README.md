@@ -1,124 +1,46 @@
 # Phase 1 Project Description
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project!
-
-In this project description, we will cover:
-
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
-
-## Project Overview
 
 
-### Business Problem
+
+# Project Overview
+
+
+## Business Problem
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-### The Data
+## The Data
 
-In this project, the following datasets were used:
+In this project, datasets from the following were used:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
 * [The Numbers](https://www.the-numbers.com/)
 
-The files were in different formats. Box Office Mojo and The Numbers were in compressed CSV (comma-separated values) files that were opened using using pandas `pd.read_csv`, while the data from IMDB was located in a SQLite database. The SQL database had the following map: 
+The files were in different formats. Box Office Mojo and The Numbers were in compressed CSV (comma-separated values) files that were opened using pandas `pd.read_csv`, while the data from IMDB was located in a SQLite database. The SQL database had the following map: 
 
 ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
 
 Only the movie_basics, movie_ratings, directors, and persons tables were used.
 
-### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+## Three Key Factors
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+Throughout this project, 3 key factors were focused on that can help determine if a movie does well in the box office:
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+* Genre of movie
+* Production budget of film
+* Building on nostalgia or sequels
 
-## Deliverables
 
-There are three deliverables for this project:
+## Genre of movie
 
-* A **non-technical presentation**
-* A **Jupyter Notebook**
-* A **GitHub repository**
+For the first factor, we looked at what kind of movie genres were most popular. Using data from Statista.com we found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
-### Non-Technical Presentation
+![movie genre](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/genres.JPG)
 
-The non-technical presentation is a slide deck presenting your analysis to business stakeholders.
 
-* ***Non-technical*** does not mean that you should avoid mentioning the technologies or techniques that you used, it means that you should explain any mentions of these technologies and avoid assuming that your audience is already familiar with them.
-* ***Business stakeholders*** means that the audience for your presentation is Microsoft, not the class or teacher. Do not assume that they are already familiar with the specific business problem, but also do not explain to them what Microsoft is.
-
-The presentation describes the project ***goals, data, methods, and results***. It must include at least ***three visualizations*** which correspond to ***three business recommendations***.
-
-We recommend that you follow this structure, although the slide titles should be specific to your project:
-
-1. Beginning
-    * Overview
-    * Business Understanding
-2. Middle
-    * Data Understanding
-    * Data Analysis
-3. End
-    * Recommendations
-    * Next Steps
-    * Thank You
-       * This slide should include a prompt for questions as well as your contact information (name and LinkedIn profile)
-
-You will give a live presentation of your slides and submit them in PDF format on Canvas. The slides should also be present in the GitHub repository you submit with a file name of `presentation.pdf`.
-
-The graded elements of the presentation are:
-
-* Presentation Content
-* Slide Style
-* Presentation Delivery and Answers to Questions
-
-See the [Grading](#grading) section for further explanation of these elements.
-
-For further reading on creating professional presentations, check out:
-
-* [Presentation Content](https://github.com/learn-co-curriculum/dsc-project-presentation-content)
-* [Slide Style](https://github.com/learn-co-curriculum/dsc-project-slide-design)
-
-### Jupyter Notebook
-
-The Jupyter Notebook is a notebook that uses Python and Markdown to present your analysis to a data science audience.
-
-* ***Python and Markdown*** means that you need to construct an integrated `.ipynb` file with Markdown (headings, paragraphs, links, lists, etc.) and Python code to create a well-organized, skim-able document.
-  * The notebook kernel should be restarted and all cells run before submission, to ensure that all code is runnable in order.
-  * Markdown should be used to frame the project with a clear introduction and conclusion, as well as introducing each of the required elements.
-* ***Data science audience*** means that you can assume basic data science proficiency in the person reading your notebook. This differs from the non-technical presentation.
-
-Along with the presentation, the notebook also describes the project ***goals, data, methods, and results***. It must include at least ***three visualizations*** which correspond to ***three business recommendations***.
-
-You will submit the notebook in PDF format on Canvas as well as in `.ipynb` format in your GitHub repository.
-
-The graded elements for the Jupyter Notebook are:
-
-* Business Understanding
-* Data Understanding
-* Data Preparation
-* Data Analysis
-* Visualization
-* Code Quality
-
-See the [Grading](#grading) section for further explanation of these elements.
-
-### GitHub Repository
-
-The GitHub repository is the cloud-hosted directory containing all of your project files as well as their version history.
-
-This repository link will be the project link that you include on your resume, LinkedIn, etc. for prospective employers to view your work. Note that we typically recommend that 3 links are highlighted (out of 5 projects) so don't stress too much about getting this one to be perfect! There will also be time after graduation for cosmetic touch-ups.
-
-A professional GitHub repository has:
 
 1. `README.md`
     * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
