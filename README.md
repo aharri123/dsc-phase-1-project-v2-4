@@ -34,7 +34,7 @@ Throughout this project, 3 key factors were focused on that can help determine i
 * Building on nostalgia or sequels
 
 
-## Genre of movie
+## 1. Genre of movie
 
 For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
@@ -49,7 +49,7 @@ Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in
 ![image](https://user-images.githubusercontent.com/45251340/171093670-57868b69-aa24-4302-a8ff-30aad0eae4ec.png)
 
 
-## Production Budget
+## 2. Production Budget
 
 Next, production budget was looked at. I took a dataset from The Numbers, which contained various movies,their production budget and their domestic and global box office earnings. I ran a Pearson's correlation test on production budget and both box office earnings and found a strong positive relationship between production budget and both types of box office earnings, which suggests that a high production budget is correlated with higher box office earnings. 
 
@@ -68,7 +68,7 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 Casuses and implications are discussed further in my presentation.
 
 
-##Building on nostalgia or sequels
+## 3. Building on nostalgia or sequels
 
 Lastly, I looked at how making sequel movies or building movies on nostalgia can impact how it peforms in the box office. I started off Using a dataset from Box Office Mojo which contained over 3000 movies and their domestic/foreign box office earnings. When looking at the top domestic grossing and top foreign grossing movies, I saw a lot of 2’s, 3’s, and colons, all of which are indicative of sequels. Furthermore, the highest domestic grossing movie (“Star Wars: The Force Awakens”) and the highest foreign grossing movie (“Avengers: Infinity War”) were both sequels of well established series.
 
