@@ -65,7 +65,16 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 ![image](https://user-images.githubusercontent.com/45251340/171094433-1350214e-6c46-423f-8da0-78a363192966.png)
 
 
+Casuses and implications are discussed further in my presentation.
 
+
+##Building on nostalgia or sequels
+
+Lastly, I looked at how making sequel movies or building movies on nostalgia can impact how it peforms in the box office. I started off Using a dataset from Box Office Mojo which contained over 3000 movies and their domestic/foreign box office earnings. When looking at the top domestic grossing and top foreign grossing movies, I saw a lot of 2’s, 3’s, and colons, all of which are indicative of sequels. Furthermore, the highest domestic grossing movie (“Star Wars: The Force Awakens”) and the highest foreign grossing movie (“Avengers: Infinity War”) were both sequels of well established series.
+
+You can see the trend in both types of box offices below: 
+
+![image](https://user-images.githubusercontent.com/45251340/171095963-7f2489ba-7201-4437-bd51-01c665052268.png)  ![image](https://user-images.githubusercontent.com/45251340/171095979-27cbf598-9d1f-4a59-a361-c8802ac20bc6.png)
 
 
 
