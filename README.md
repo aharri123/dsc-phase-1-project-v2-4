@@ -48,7 +48,11 @@ Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in
 
 ![image](https://user-images.githubusercontent.com/45251340/171093670-57868b69-aa24-4302-a8ff-30aad0eae4ec.png)
 
-All of these 
+
+## Production Budget
+
+Next, production budget was looked at. I took a dataset from The Numbers, which contained various movies,their production budget and their domestic and global box office earnings.
+
 
 
 
