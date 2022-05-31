@@ -54,7 +54,13 @@ Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in
 Next, production budget was looked at. I took a dataset from The Numbers, which contained various movies,their production budget and their domestic and global box office earnings. I ran a Pearson's correlation test on production budget and both box office earnings and found a strong positive relationship between production budget and both types of box office earnings, which suggests that a high production budget is correlated with higher box office earnings. 
 
 Here the correlation between production budget and worldwide box office earnings is shown, with a correlation of 0.748
+
 ![image](https://user-images.githubusercontent.com/45251340/171094322-d6a0231d-4d4a-4d4c-b6ab-434880a4d323.png)
+
+
+Here the correlation between production budget and domestic box office earnings is shown, with a correlation of 0.686
+
+![image](https://user-images.githubusercontent.com/45251340/171094433-1350214e-6c46-423f-8da0-78a363192966.png)
 
 
 
