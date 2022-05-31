@@ -29,9 +29,9 @@ Only the movie_basics, movie_ratings, directors, and persons tables were used.
 
 Throughout this project, 3 key factors were focused on that can help determine if a movie does well in the box office:
 
-* Genre of movie
-* Production budget of film
-* Building on nostalgia or sequels
+* [Genre of movie]
+* [Production budget of film]
+* [Building on nostalgia or sequels]
 
 
 ## 1. Genre of movie
