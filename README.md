@@ -1,4 +1,4 @@
-# Phase 1 Project Description
+# Phase 1 Project
 
 
 
