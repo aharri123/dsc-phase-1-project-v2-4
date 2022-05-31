@@ -38,7 +38,7 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 For the first factor, we looked at what kind of movie genres were most popular. Using data from Statista.com we found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
-![movie genre](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/genres.JPG)
+![genres](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/genres.JPG)
 
 
 
