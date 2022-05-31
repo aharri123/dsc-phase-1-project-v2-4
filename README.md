@@ -84,9 +84,9 @@ I also looked into more detail in two different series which play on nostalgia, 
 ## Summary
 
 3 factors to focus on for a successful movie were suggested:
-*Genre of movie
-*Production budget of film
-*Building on nostalgia or sequels
+*[Genre of movie]
+*[Production budget of film]
+*[Building on nostalgia or sequels]
 
 After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly.  
 
