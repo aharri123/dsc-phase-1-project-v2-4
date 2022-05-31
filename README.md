@@ -36,7 +36,7 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 ## 1. Genre of movie
 
-For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
+For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was adventure , followed by action, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
 ![genres](https://user-images.githubusercontent.com/45251340/171091151-855764e1-eae6-4321-b20e-5dddea2a6e0b.JPG)
 
@@ -88,17 +88,6 @@ I also looked into more detail in two different series which play on nostalgia, 
 * Production budget of film
 * Building on nostalgia or sequels
 
-After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly.  
+After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly. For starters making a movie that is in the adventure or action genre is recommended, as those are the top 2 genres in the past decade. A relatively higher production budget is also suggested, which will allow for things like more special effects, better actors, better equipment, etc. Lastly, it is reccomended to make a movie that builds on older movies/movie series, to play on the audience's nostalgia.  
 
-1. `README.md`
-    * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
-    * This file contains these sections:
-       * Overview
-       * Business Understanding
-          * Include stakeholder and key business questions
-       * Data Understanding and Analysis
-          * Source of data
-          * Description of data
-          * Three visualizations (the same visualizations presented in the slides and notebook)
-       * Conclusion
-          * Summary of conclusions including three relevant findings
+Closing thoughts and suggestions are discussed in the powerpoint, as well as the chance for the studio to ask any questions.
