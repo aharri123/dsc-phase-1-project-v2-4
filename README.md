@@ -81,6 +81,15 @@ You can see the trend in both types of box offices below:
 I also looked into more detail in two different series which play on nostalgia, and how that affected their success in the box office. The two series were Star Wars, and the Marvel Cinematic Universe movies. Both of these are discussed more in detail in my powerpoint.
 
 
+## Summary
+
+3 factors to focus on for a successful movie were suggested:
+*Genre of movie
+*Production budget of film
+*Building on nostalgia or sequels
+
+After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly.  
+
 1. `README.md`
     * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
     * This file contains these sections:
