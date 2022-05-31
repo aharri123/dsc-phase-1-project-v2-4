@@ -20,12 +20,13 @@ In this project, datasets from the following were used:
 
 The files were in different formats. Box Office Mojo and The Numbers were in compressed CSV (comma-separated values) files that were opened using pandas `pd.read_csv`, while the data from IMDB was located in a SQLite database. The SQL database had the following map: 
 
-![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
+![genres](https://user-images.githubusercontent.com/45251340/171091151-855764e1-eae6-4321-b20e-5dddea2a6e0b.JPG)
 
 Only the movie_basics, movie_ratings, directors, and persons tables were used.
 
 
 ## Three Key Factors
+
 
 Throughout this project, 3 key factors were focused on that can help determine if a movie does well in the box office:
 
