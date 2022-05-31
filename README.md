@@ -44,7 +44,11 @@ I also looked at an IMDB database which contained over 85,000 movies along with 
 
 ![genresPie](https://user-images.githubusercontent.com/45251340/171091841-fb1c86ed-7a64-45b4-9181-321fbb99318d.png)
 
-Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in the action and adventure genre, with the exception of one movie, which was in the drama genre.
+Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in the action and adventure genre, with the exception of one movie, which was in the drama genre. 
+
+![image](https://user-images.githubusercontent.com/45251340/171093670-57868b69-aa24-4302-a8ff-30aad0eae4ec.png)
+
+All of these 
 
 
 
