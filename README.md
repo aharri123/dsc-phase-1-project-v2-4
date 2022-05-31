@@ -20,13 +20,12 @@ In this project, datasets from the following were used:
 
 The files were in different formats. Box Office Mojo and The Numbers were in compressed CSV (comma-separated values) files that were opened using pandas `pd.read_csv`, while the data from IMDB was located in a SQLite database. The SQL database had the following map: 
 
-![genres](https://user-images.githubusercontent.com/45251340/171091151-855764e1-eae6-4321-b20e-5dddea2a6e0b.JPG)
+![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
 
 Only the movie_basics, movie_ratings, directors, and persons tables were used.
 
 
 ## Three Key Factors
-
 
 Throughout this project, 3 key factors were focused on that can help determine if a movie does well in the box office:
 
@@ -39,7 +38,7 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 For the first factor, we looked at what kind of movie genres were most popular. Using data from Statista.com we found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
-![genres](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/genres.JPG)
+![genres](https://user-images.githubusercontent.com/45251340/171091151-855764e1-eae6-4321-b20e-5dddea2a6e0b.JPG)
 
 
 
