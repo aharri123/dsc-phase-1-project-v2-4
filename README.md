@@ -36,9 +36,13 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 ## Genre of movie
 
-For the first factor, we looked at what kind of movie genres were most popular. Using data from Statista.com we found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
+For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was action, followed by adventure, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
 ![genres](https://user-images.githubusercontent.com/45251340/171091151-855764e1-eae6-4321-b20e-5dddea2a6e0b.JPG)
+
+I also looked at an IMDB database which contained over 85,000 movies along with their ratings, number of people who voted on the rating, the movie director, etc. Looking at the top most voted for movies, a trend was noticed where most of those movies fell into the action, adventure and drama genre.The results can be seen below.
+
+![genresPie](https://user-images.githubusercontent.com/45251340/171091841-fb1c86ed-7a64-45b4-9181-321fbb99318d.png)
 
 
 
