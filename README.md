@@ -78,7 +78,7 @@ You can see the trend in both types of box offices below:
 
 
 
-I also looked into more detail in two different series which play on nostalgia, which were Star Wars, and the Marvel Cinematic Universe movies. Both of these are discussed in detail in my powerpoint.
+I also looked into more detail in two different series which play on nostalgia, and how that affected their success in the box office. The two series were Star Wars, and the Marvel Cinematic Universe movies. Both of these are discussed more in detail in my powerpoint.
 
 
 1. `README.md`
