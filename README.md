@@ -36,14 +36,14 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 ## 1. Genre of movie
 
-For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was adventure , followed by action. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
+For the first factor, I looked at what kind of movie genres were most popular. Using data from Statista.com I found that between the years of 1995 and 2022, the most popular genre was adventure , followed by action, then drama. This is shown in the figure below, where total revenue (in billions) represents the success of a genre.
 
-![genresPie](https://user-images.githubusercontent.com/45251340/171310422-a37f62f7-cdd0-46f3-b15c-e171682594b5.png)
+![genres](https://user-images.githubusercontent.com/45251340/171310497-18c99fb2-bd54-492e-97ef-9450ad63bdf3.JPG)
 
+I also looked at an IMDB database which contained over 85,000 movies along with their ratings, number of people who voted on the rating, the movie director, etc. Looking at the top rated and most voted on movies, a trend was noticed where most of those movies fell into the action and adventure genre.The results can be seen below.
 
-I also looked at an IMDB database which contained over 85,000 movies along with their ratings, number of people who voted on the rating, the movie director, etc. Looking at the top most voted for movies, a trend was noticed where most of those movies fell into the action, adventure and drama genre.The results can be seen below.
+![genresPie](https://user-images.githubusercontent.com/45251340/171310568-531653e7-e3c7-4064-a83e-de13088b725d.png)
 
-![genresPie](https://user-images.githubusercontent.com/45251340/171091841-fb1c86ed-7a64-45b4-9181-321fbb99318d.png)
 
 Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in the action and adventure genre, with the exception of one movie, which was in the drama genre. 
 
