@@ -56,14 +56,16 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 
 ***Here the correlation between production budget and worldwide box office earnings is shown, with a correlation of 0.748***
 
-![image](https://user-images.githubusercontent.com/45251340/171094322-d6a0231d-4d4a-4d4c-b6ab-434880a4d323.png)
 
+
+![worldwideBoxOfficeCorr](https://user-images.githubusercontent.com/45251340/171315914-51f70a55-ca6e-4e62-b8f2-66c1ad921fa4.png)
 
 
 
 ***Here the correlation between production budget and domestic box office earnings is shown, with a correlation of 0.686***
 
-![image](https://user-images.githubusercontent.com/45251340/171094433-1350214e-6c46-423f-8da0-78a363192966.png)
+
+![domesticBoxOfficeCorr](https://user-images.githubusercontent.com/45251340/171315932-b838ee0d-3e1b-4fe7-ae9f-424a0a7b853f.png)
 
 
 Casuses and implications are discussed further in my presentation.
