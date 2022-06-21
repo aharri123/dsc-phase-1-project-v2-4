@@ -64,17 +64,11 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 
 
 
-## 3. Building on nostalgia or sequels
+## 3. Partnering With Another Studio
 
-Lastly, I looked at how making sequel movies or building movies on nostalgia can impact how it peforms in the box office. I started off Using a dataset from Box Office Mojo which contained over 3000 movies and their domestic/foreign box office earnings. When looking at the top domestic grossing and top foreign grossing movies, I saw a lot of 2’s, 3’s, and colons, all of which are indicative of sequels. Furthermore, the highest domestic grossing movie (“Star Wars: The Force Awakens”) and the highest foreign grossing movie (“Avengers: Infinity War”) were both sequels of well established series.
-
-You can see the trend in both types of box offices below: 
-
-![image](https://user-images.githubusercontent.com/45251340/171095963-7f2489ba-7201-4437-bd51-01c665052268.png)  ![image](https://user-images.githubusercontent.com/45251340/171095979-27cbf598-9d1f-4a59-a361-c8802ac20bc6.png)
+Lastly, I looked to see which movie studio would be the best to work together with when producing a movie. I took a dataset from Box Office Mojo which contained over 2000 movies. Each entry had the domestic/foreign box office earnings as well as the studio that made the movie. To determine which studio was the best choice to partner with, I looked at the number of movies each studio produced, as well as the average worldwide gross made by each studio. For number of movies produced, the results show that the top producers of movies are Universal, Fox, and Warner Brothers.
 
 
-
-I also looked into more detail in two different series which play on nostalgia, and how that affected their success in the box office. The two series were Star Wars, and the Marvel Cinematic Universe movies. Both of these are discussed more in detail in my powerpoint.
 
 
 ## Summary
