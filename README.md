@@ -70,7 +70,6 @@ Lastly, I looked to see which movie studio would be the best to work together wi
  
 
 
-**Number of movies made by each studio**
 ![movies made by studio](https://user-images.githubusercontent.com/45251340/174701990-ce9507bf-02ba-4e2a-b65a-e6ad1f78bab1.png)
  
 
@@ -82,7 +81,7 @@ Lastly, I looked to see which movie studio would be the best to work together wi
 3 factors to focus on for a successful movie were suggested:
 * Genre of movie
 * Production budget of film
-* Building on nostalgia or sequels
+* Partnering with another studio
 
 After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly. For starters making a movie that is in the adventure or action genre is recommended, as those are the top 2 genres in the past decade. A relatively higher production budget is also suggested, which will allow for things like more special effects, better actors, better equipment, etc. Lastly, it is reccomended to make a movie that builds on older movies/movie series, to play on the audience's nostalgia.  
 
