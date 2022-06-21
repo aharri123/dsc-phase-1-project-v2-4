@@ -66,9 +66,15 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 
 ## 3. Partnering With Another Studio
 
-Lastly, I looked to see which movie studio would be the best to work together with when producing a movie. I took a dataset from Box Office Mojo which contained over 2000 movies. Each entry had the domestic/foreign box office earnings as well as the studio that made the movie. To determine which studio was the best choice to partner with, I looked at the number of movies each studio produced, as well as the average worldwide gross made by each studio. For number of movies produced, the results show that the top producers of movies are Universal, Fox, and Warner Brothers.
+Lastly, I looked to see which movie studio would be the best to work together with when producing a movie. I took a dataset from Box Office Mojo which contained over 2000 movies. Each entry had the domestic/foreign box office earnings as well as the studio that made the movie. To determine which studio was the best choice to partner with, I looked at the number of movies each studio produced, as well as the average worldwide gross made by each studio. For number of movies produced, the results show that the top producers of movies are Universal, Fox, and Warner Brothers. I then looked at which movie studios had the highest average worldwide grossing movies, and by taking into account both number of movies and average worldwide gross made by each studio, I was able to eliminate certain studios, and the final choice was Warner Bros Studios. 
+ 
 
 
+**Number of movies made by each studio**
+![movies made by studio](https://user-images.githubusercontent.com/45251340/174701990-ce9507bf-02ba-4e2a-b65a-e6ad1f78bab1.png)
+ 
+
+![worldwide gross per studio](https://user-images.githubusercontent.com/45251340/174702152-d97306cf-9ce3-4f9a-b2fe-accc1a6c859c.png)
 
 
 ## Summary
