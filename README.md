@@ -31,7 +31,7 @@ Throughout this project, 3 key factors were focused on that can help determine i
 
 * Genre of movie
 * Production budget of film
-* Building on nostalgia or sequels
+* Partnering with another movie studio
 
 
 ## 1. Genre of movie
