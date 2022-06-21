@@ -83,6 +83,11 @@ Lastly, I looked to see which movie studio would be the best to work together wi
 * Production budget of film
 * Partnering with another studio
 
-After research and data analysis from various sources, each of these factors have been shown to help improve box office performance provided they are done correctly. For starters making a movie that is in the adventure or action genre is recommended, as those are the top 2 genres in the past decade. A relatively higher production budget is also suggested, which will allow for things like more special effects, better actors, better equipment, etc. Lastly, it is reccomended to make a movie that builds on older movies/movie series, to play on the audience's nostalgia.  
 
-Closing thoughts and suggestions are discussed in the powerpoint, as well as the chance for the studio to ask any questions.
+Analyzing each factor and multiple datasets, here are a few suggestions:
+
+* Based on the massive amount of movies in the drama genre produced, using high rating genres that can incorporate aspects of drama would be wise. Therefore the best genres to focus on would be sport, history or musical.
+* For production budget, the ideal budget to maximize profits would be between 100 and 200 million dollars. We’ll consider the movie successful if the gross box office earnings are at least twice the production budget.
+* Lastly, you should partner up with Warner Bros, a highly experienced and skilled studio that has put out many high grossing box office hits.
+
+
