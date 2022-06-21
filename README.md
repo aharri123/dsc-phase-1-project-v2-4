@@ -44,9 +44,6 @@ For the first factor, I looked at what kind of movie genres were most popular. I
 
 ![average rating per genre](https://user-images.githubusercontent.com/45251340/174701120-f8455400-ad67-4a00-9124-13e3c6666025.png)
 
-![genresPie](https://user-images.githubusercontent.com/45251340/171310568-531653e7-e3c7-4064-a83e-de13088b725d.png)
-
-
 
 ## 2. Production Budget
 
