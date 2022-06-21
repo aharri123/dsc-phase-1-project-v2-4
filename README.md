@@ -39,7 +39,10 @@ Throughout this project, 3 key factors were focused on that can help determine i
 For the first factor, I looked at what kind of movie genres were most popular. I used data from an IMDB database which contained over 85,000 movies along with their ratings, number of people who voted on the rating, the movie director, etc. I looked at which genre had the most movies produced, and which genres had the highest average rating. By far the most produced type of movie was in the Drama genre, which accounted for almost half of the total movies in the dataset. The highest average movie ratings for a genre belongs to the documentary genre, but is closely followed by the sport, musical, history and biography genres.
 
 
-![image](https://user-images.githubusercontent.com/45251340/174700889-f9836668-0d4c-4dd7-95b5-caefac551507.png)
+![frequency of movie genre](https://user-images.githubusercontent.com/45251340/174701111-4b2dd757-829c-479e-8755-72fd29575b22.png)
+
+
+![average rating per genre](https://user-images.githubusercontent.com/45251340/174701120-f8455400-ad67-4a00-9124-13e3c6666025.png)
 
 ![genresPie](https://user-images.githubusercontent.com/45251340/171310568-531653e7-e3c7-4064-a83e-de13088b725d.png)
 
