@@ -47,10 +47,6 @@ For the first factor, I looked at what kind of movie genres were most popular. I
 ![genresPie](https://user-images.githubusercontent.com/45251340/171310568-531653e7-e3c7-4064-a83e-de13088b725d.png)
 
 
-Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in the action and adventure genre, with the exception of one movie, which was in the drama genre. 
-
-![image](https://user-images.githubusercontent.com/45251340/171093670-57868b69-aa24-4302-a8ff-30aad0eae4ec.png)
-
 
 ## 2. Production Budget
 
