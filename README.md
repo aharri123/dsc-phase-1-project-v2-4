@@ -44,6 +44,13 @@ For the first factor, I looked at what kind of movie genres were most popular. I
 
 ![average rating per genre](https://user-images.githubusercontent.com/45251340/174701120-f8455400-ad67-4a00-9124-13e3c6666025.png)
 
+![genresPie](https://user-images.githubusercontent.com/45251340/171310568-531653e7-e3c7-4064-a83e-de13088b725d.png)
+
+
+Lastly, I looked at the top 10 lifetime grossing movies, and all of them were in the action and adventure genre, with the exception of one movie, which was in the drama genre. 
+
+![image](https://user-images.githubusercontent.com/45251340/171093670-57868b69-aa24-4302-a8ff-30aad0eae4ec.png)
+
 
 ## 2. Production Budget
 
@@ -53,17 +60,15 @@ Next, production budget was looked at. I took a dataset from The Numbers, which 
 
 
 
-![worldwideBoxOfficeCorr](https://user-images.githubusercontent.com/45251340/171315914-51f70a55-ca6e-4e62-b8f2-66c1ad921fa4.png)
+![worldwide box office correlation](https://user-images.githubusercontent.com/45251340/174701413-31cc6ec0-58c8-4247-9775-b2bcfea7f272.png)
 
 
 
 ***Here the correlation between production budget and domestic box office earnings is shown, with a correlation of 0.686***
 
 
-![domesticBoxOfficeCorr](https://user-images.githubusercontent.com/45251340/171315932-b838ee0d-3e1b-4fe7-ae9f-424a0a7b853f.png)
+![domestic box office correlation](https://user-images.githubusercontent.com/45251340/174701419-da645fe0-1ca3-4734-a53e-dd0a08b0b35c.png)
 
-
-Casuses and implications are discussed further in my presentation.
 
 
 ## 3. Building on nostalgia or sequels
