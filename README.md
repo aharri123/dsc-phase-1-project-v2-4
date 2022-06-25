@@ -47,7 +47,8 @@ For the first factor, I looked at what kind of movie genres were most popular. I
 
 ## 2. Production Budget
 
-Next, production budget was looked at. I took a dataset from The Numbers, which contained various movies,their production budget and their domestic and global box office earnings. I ran a Pearson's correlation test on production budget and both box office earnings and found a strong positive relationship between production budget and both types of box office earnings, which suggests that a high production budget is correlated with higher box office earnings. 
+Next, production budget was looked at. I took a dataset from The Numbers, which contained various movies,their production budget and their domestic and global box office earnings. I ran a Pearson's correlation test on production budget and both box office earnings and found a strong positive relationship between production budget and both types of box office earnings, which suggests that a high production budget is correlated with higher box office earnings. I also looked at the average production budget which $31,587,757 with a standard deviation of $41,812,076.
+
 
 ***Here the correlation between production budget and worldwide box office earnings is shown, with a correlation of 0.748***
 
